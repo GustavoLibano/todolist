@@ -2,7 +2,7 @@
 
 ## Descrição
 
-A API foi desenvolvida para que um estudante consiga entender como funciona um código em python e se organizar com o mesmo código
+A API foi desenvolvida para que um estudante consiga entender como funciona um código em python e se organizar com os estudos.
 
 ## Contato
 
